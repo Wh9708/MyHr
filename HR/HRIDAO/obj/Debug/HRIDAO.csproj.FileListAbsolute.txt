@@ -1,0 +1,15 @@
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRIDAO\bin\Debug\HRIDAO.dll
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRIDAO\bin\Debug\HRIDAO.pdb
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRIDAO\bin\Debug\HRModel.dll
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRIDAO\bin\Debug\HRModel.pdb
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRIDAO\obj\Debug\HRIDAO.csprojResolveAssemblyReference.cache
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRIDAO\obj\Debug\HRIDAO.dll
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRIDAO\obj\Debug\HRIDAO.pdb
+D:\QQ文件\T9\Code\HR\HRIDAO\bin\Debug\HRIDAO.dll
+D:\QQ文件\T9\Code\HR\HRIDAO\bin\Debug\HRIDAO.pdb
+D:\QQ文件\T9\Code\HR\HRIDAO\bin\Debug\HRModel.dll
+D:\QQ文件\T9\Code\HR\HRIDAO\bin\Debug\HRModel.pdb
+D:\QQ文件\T9\Code\HR\HRIDAO\obj\Debug\HRIDAO.csprojAssemblyReference.cache
+D:\QQ文件\T9\Code\HR\HRIDAO\obj\Debug\HRIDAO.csproj.CopyComplete
+D:\QQ文件\T9\Code\HR\HRIDAO\obj\Debug\HRIDAO.dll
+D:\QQ文件\T9\Code\HR\HRIDAO\obj\Debug\HRIDAO.pdb

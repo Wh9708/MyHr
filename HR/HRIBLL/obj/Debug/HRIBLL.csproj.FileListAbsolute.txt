@@ -1,0 +1,15 @@
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRIBLL\bin\Debug\HRIBLL.dll
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRIBLL\bin\Debug\HRIBLL.pdb
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRIBLL\bin\Debug\HRModel.dll
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRIBLL\bin\Debug\HRModel.pdb
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRIBLL\obj\Debug\HRIBLL.csprojResolveAssemblyReference.cache
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRIBLL\obj\Debug\HRIBLL.dll
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRIBLL\obj\Debug\HRIBLL.pdb
+D:\QQ文件\T9\Code\HR\HRIBLL\bin\Debug\HRIBLL.dll
+D:\QQ文件\T9\Code\HR\HRIBLL\bin\Debug\HRIBLL.pdb
+D:\QQ文件\T9\Code\HR\HRIBLL\bin\Debug\HRModel.dll
+D:\QQ文件\T9\Code\HR\HRIBLL\bin\Debug\HRModel.pdb
+D:\QQ文件\T9\Code\HR\HRIBLL\obj\Debug\HRIBLL.csprojAssemblyReference.cache
+D:\QQ文件\T9\Code\HR\HRIBLL\obj\Debug\HRIBLL.csproj.CopyComplete
+D:\QQ文件\T9\Code\HR\HRIBLL\obj\Debug\HRIBLL.dll
+D:\QQ文件\T9\Code\HR\HRIBLL\obj\Debug\HRIBLL.pdb

@@ -1,0 +1,9 @@
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRModel\bin\Debug\HRModel.dll
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRModel\bin\Debug\HRModel.pdb
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRModel\obj\Debug\HRModel.dll
+E:\班机信息\A3193\Y2\MVC\T9\Code\HR\HRModel\obj\Debug\HRModel.pdb
+D:\QQ文件\T9\Code\HR\HRModel\bin\Debug\HRModel.dll
+D:\QQ文件\T9\Code\HR\HRModel\bin\Debug\HRModel.pdb
+D:\QQ文件\T9\Code\HR\HRModel\obj\Debug\HRModel.csprojAssemblyReference.cache
+D:\QQ文件\T9\Code\HR\HRModel\obj\Debug\HRModel.dll
+D:\QQ文件\T9\Code\HR\HRModel\obj\Debug\HRModel.pdb
